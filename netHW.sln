@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netHW.HW1.Task1", "netHW.HW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netHW.HW1.Task2", "netHW.HW1.Task2\netHW.HW1.Task2.csproj", "{F7F8CAD0-23E2-470D-ACF4-246CD4303616}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netHW.HW2.Calculator", "netHW.HW2.Calculator\netHW.HW2.Calculator.csproj", "{3E8FB6D7-2A73-4F70-BA2F-079D0C929E7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F7F8CAD0-23E2-470D-ACF4-246CD4303616}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7F8CAD0-23E2-470D-ACF4-246CD4303616}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7F8CAD0-23E2-470D-ACF4-246CD4303616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8FB6D7-2A73-4F70-BA2F-079D0C929E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8FB6D7-2A73-4F70-BA2F-079D0C929E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8FB6D7-2A73-4F70-BA2F-079D0C929E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8FB6D7-2A73-4F70-BA2F-079D0C929E7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
